@@ -92,7 +92,7 @@ ab-test-mlp-vs-factorial/
 
 ```bash
 git clone https://github.com/Ella0921/Comparing-Deep-Neural-Network-Application-in-A-B-Test.git
-cd ab-test-mlp-vs-factorial
+cd Comparing-Deep-Neural-Network-Application-in-A-B-Test
 pip install -r requirements.txt
 python experiments/run_all.py   # ~5-10 min, saves figures to results/figures/
 ```
